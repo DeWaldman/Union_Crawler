@@ -1,3 +1,14 @@
 # Union_Crawler
-<pre>Objetivo: Mostrar quais mangás sairam no dia, usando raspagem de dados(BeautifulSoup e selenium).
-Conectando com banco de dados sql, para gravar quais mangas são acompanhados atualemnte.</pre>
+Objetivo: Mostrar quais mangás sairam no dia, usando raspagem de dados(BeautifulSoup e selenium).  
+
+
+### Requerimentos
+pip install --upgrade beautifulsoup4  
+pip install --upgrade selenium
+
+
+##### ideias
+usar o console para execultar a função paginacaoNoticias()  
+Ghost mode Selenium || PhantomJS  
+Criar Modulos  
+Usar Paito dict para organizar as informaçoes.
